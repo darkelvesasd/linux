@@ -5,3 +5,4 @@ rm -f非询问删除
 rm -rf强制递归删除
 rm -i询问删除
 more less查看大文本
+head tail查看头查看尾
